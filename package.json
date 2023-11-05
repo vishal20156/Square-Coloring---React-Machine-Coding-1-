@@ -1,0 +1,22 @@
+{
+  "name": "square-coloring-problem",
+  "version": "1.0.0",
+  "description": "A Machine Coding Round Question to Implement Square Coloring Problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Vishal Ramnani",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
